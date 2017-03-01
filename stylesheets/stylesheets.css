@@ -70,11 +70,14 @@
       display: block;
     }
 
-  	#secao-1{
-      width: 100%;
+    #secao-1{
       background-color: #f1f1f1;
-      height: 500px;
-  	}
+      height: 450px;
+      font-size: 32px;
+      color: #383737;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
 
   	#secao-2{
       width: 100%;
