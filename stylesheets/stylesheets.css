@@ -82,9 +82,12 @@
   	#secao-2{
       width: 100%;
       background-color: white;
-      height: 2500px;
+      height: 1400px;
   	}
 
+	#projetos-lista {
+      	font-size: 20px;
+        }
   	#secao-3{
       width: 100%;
       background-color: #f1f1f1;
