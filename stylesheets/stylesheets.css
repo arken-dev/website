@@ -144,7 +144,11 @@
     }
 
   	#rodape{
+          padding-top: 15px;
+          padding-bottom: 15px;
+          margin-right: 40px;
   	  width: 100%;	
   	  background-color: black;
-  	  height: 200px;
+          vertical-align: center;
+          text-align: right;
   	}
